@@ -1,0 +1,51 @@
+section {
+  width: 100vw;
+  height: 87.6vh;
+  background: rgb(14, 12, 12);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+main {
+  width: 75vw;
+  height: 60vh;
+  background: rgb(230, 224, 224);
+}
+li {
+  margin-left: 40px;
+}
+ol {
+  list-style-type: decimal;
+}
+
+.button-container {
+  width: 75vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+h4 {
+  color: white;
+}
+
+.slide {
+    display: flex;
+  justify-content: flex-end;
+  margin-right:20px;
+}
+
+.name{
+    margin-left:50px;
+    font-size: 30px;
+}
+
+h2 {
+    margin-left:50px;
+    font-size: 18px;
+}
+
+.movies {
+    margin-left:75px;
+    font-size: 17px;
+}
